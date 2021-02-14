@@ -2,7 +2,7 @@
 
 Code Refractor:
 What
-- "Search Engine Optimization" link did not work. 
+- "Search Engine Optimization" link did not work. Checking code uniformity and use of ids and classes helped to narrow the problem to a referencing issue. 
 Why
 How
 
