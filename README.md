@@ -2,6 +2,7 @@
 
 Code Refractor:
 What
+- "Search Engine Optimization" link did not work. 
 Why
 How
 
